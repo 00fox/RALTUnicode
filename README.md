@@ -50,10 +50,10 @@ Modify RALTUnicode.ahk as you wish with any text editor (possibly install Notepa
   - Empty lines can be removed
   - Empty characters can be blank instead of space
   - Empty end of line, can be removed comma included, except ending "
-- Choose your key and put it where you find ;▒▒▒▒▒▒▒▒Your own key there▒▒▒▒▒▒ instead of RAlt
+- Choose your key and put it where you find «Your own key there» instead of RAlt
   - Refer to https://www.autohotkey.com/docs/KeyList.htm
   - For example AppsKey for Menu (which invoke right click context menu)
-- Choose the time for long press in ms at ;▒▒▒▒▒▒▒▒Long press time there▒▒▒ instead of 400 (leave negative)
+- Choose the time for long press in ms at «Long press time there» instead of 400 (leave negative)
 - Add stuff you want under Miscellaneous
   - Possibly un comment CTRL+SHIFT+Z for Redo
 - Uncomment section Media_Play_Pause double if you wish
