@@ -24,7 +24,7 @@ Some characters don't have an HTML name, so the number will be used instead:
 - Character: ≠
 - Unicode: 2260
 - Ascii: 8800
-- Html name: &#8800;
+- Html name: `&`#8800;
 - Html number: &#8800;
 <br>
 
