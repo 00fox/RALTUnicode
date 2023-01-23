@@ -68,7 +68,7 @@ Modify RALTUnicode.ahk as you wish with any text editor (possibly install Notepa
 - Hold down the button you have chosen to activate the menu that remains on top
 - Your initial key therefore remains accessible by quick press
 - But when activated, you can quicly press the key again to change the page
-- Double tap return to the first page
+- Double tap return to the first page (not implemented in simple RALTUnicode (sRALTUnicode))
   - If the list was not opened, he opens it first
 - When you are done, long press again or use the mouse to exit the window
 <br><br>
